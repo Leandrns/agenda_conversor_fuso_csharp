@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("agenda_conversor_fuso_csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff63e5da0d64e9b195ecab76c20a558531e7f2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("agenda_conversor_fuso_csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("agenda_conversor_fuso_csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

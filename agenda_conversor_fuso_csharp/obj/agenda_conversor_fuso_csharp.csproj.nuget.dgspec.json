@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labsfiap\\Downloads\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj": {}
+    "C:\\Users\\labsfiap\\Source\\Repos\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labsfiap\\Downloads\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj": {
+    "C:\\Users\\labsfiap\\Source\\Repos\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labsfiap\\Downloads\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj",
+        "projectUniqueName": "C:\\Users\\labsfiap\\Source\\Repos\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj",
         "projectName": "agenda_conversor_fuso_csharp",
-        "projectPath": "C:\\Users\\labsfiap\\Downloads\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj",
+        "projectPath": "C:\\Users\\labsfiap\\Source\\Repos\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp.csproj",
         "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labsfiap\\Downloads\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\obj\\",
+        "outputPath": "C:\\Users\\labsfiap\\Source\\Repos\\agenda_conversor_fuso_csharp\\agenda_conversor_fuso_csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

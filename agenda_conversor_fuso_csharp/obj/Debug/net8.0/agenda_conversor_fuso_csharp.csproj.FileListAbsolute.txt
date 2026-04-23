@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\bin\Debug\net8.0\agenda_conversor_fuso_csharp.exe
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\bin\Debug\net8.0\agenda_conversor_fuso_csharp.deps.json
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\bin\Debug\net8.0\agenda_conversor_fuso_csharp.runtimeconfig.json
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\bin\Debug\net8.0\agenda_conversor_fuso_csharp.dll
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\bin\Debug\net8.0\agenda_conversor_fuso_csharp.pdb
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.AssemblyInfo.cs
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.sourcelink.json
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.dll
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\refint\agenda_conversor_fuso_csharp.dll
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.pdb
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\agenda_conversor_fuso_csharp.genruntimeconfig.cache
+C:\Users\labsfiap\Source\Repos\agenda_conversor_fuso_csharp\agenda_conversor_fuso_csharp\obj\Debug\net8.0\ref\agenda_conversor_fuso_csharp.dll
